@@ -1,1 +1,1 @@
-worker: python3 ridogram.py
+web: python3 ridogram.py
